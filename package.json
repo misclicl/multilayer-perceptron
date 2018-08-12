@@ -1,5 +1,5 @@
 {
-  "name": "webpack-boilerplate",
+  "name": "multilayer-perceptron",
   "version": "0.1.0",
   "main": "index.js",
   "author": "(https://github.com/oniondomes)",
@@ -30,9 +30,7 @@
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.11",
     "webpack-dev-server": "^3.1.1",
-    "webpack-merge": "^4.1.2"
-  },
-  "dependencies": {
+    "webpack-merge": "^4.1.2",
     "babel-eslint": "^8.2.3"
   }
 }
